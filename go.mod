@@ -1,4 +1,4 @@
-module github.com/vmpartner/translit
+module github.com/vmpartner/translit/v2
 
 go 1.13
 
