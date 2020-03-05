@@ -1,5 +1,5 @@
 // Package translit convert russian text to translit
-package "github.com/vmpartner/translit/v2"
+package translit
 
 // ////////////////////////////////////////////////////////////////////////////////// //
 //                                                                                    //
