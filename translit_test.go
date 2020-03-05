@@ -1,4 +1,4 @@
-package translit
+package "github.com/vmpartner/translit/v2"
 
 // ////////////////////////////////////////////////////////////////////////////////// //
 //                                                                                    //
@@ -9,7 +9,6 @@ package translit
 
 import (
 	"testing"
-
 	. "gopkg.in/check.v1"
 )
 
