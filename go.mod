@@ -1,4 +1,4 @@
-module github.com/skinass/translit
+module github.com/vmpartner/translit
 
 go 1.13
 
