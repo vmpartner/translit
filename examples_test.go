@@ -1,4 +1,4 @@
-package translit
+package "github.com/vmpartner/translit/v2"
 
 // ////////////////////////////////////////////////////////////////////////////////// //
 //                                                                                    //
