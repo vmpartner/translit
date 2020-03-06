@@ -42,12 +42,6 @@ For update to latest stable release, do:
 go get -u pkg.re/essentialkaos/translit.v2
 ```
 
-### Build Status
-
-| Branch | Status |
-|------------|--------|
-| `master` | [![Build Status](https://travis-ci.org/essentialkaos/translit.svg?branch=master)](https://travis-ci.org/essentialkaos/translit) |
-| `develop` | [![Build Status](https://travis-ci.org/essentialkaos/translit.svg?branch=develop)](https://travis-ci.org/essentialkaos/translit) |
 
 ### License
 
